@@ -1,0 +1,6 @@
+com\vylitkova\wardrobe\items\user\User.class
+com\vylitkova\wardrobe\items\user\UserService.class
+com\vylitkova\wardrobe\items\user\ResourceNotFoundException.class
+com\vylitkova\wardrobe\items\user\UserApplication.class
+com\vylitkova\wardrobe\items\user\UserRepository.class
+com\vylitkova\wardrobe\items\user\UserController.class

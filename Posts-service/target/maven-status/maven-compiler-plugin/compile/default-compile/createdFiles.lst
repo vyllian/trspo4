@@ -1,0 +1,6 @@
+com\vylitkova\wardrobe\items\post\PostController.class
+com\vylitkova\wardrobe\items\post\PostApplication.class
+com\vylitkova\wardrobe\items\post\PostRepository.class
+com\vylitkova\wardrobe\items\post\ResourceNotFoundException.class
+com\vylitkova\wardrobe\items\post\Post.class
+com\vylitkova\wardrobe\items\post\PostService.class
